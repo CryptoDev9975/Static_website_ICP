@@ -1,5 +1,6 @@
 # Static_website_ICP
 This is static website on ICP(localhost)
+Can deloy on mainnet.
 
 
 # Website URL
